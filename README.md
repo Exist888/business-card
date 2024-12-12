@@ -1,19 +1,17 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# __Digital Business Card__
+Exercise for <a href="https://v2.scrimba.com">__Scrimba__</a> Frontend Web Dev Training Program.
+Check out my digital business card at < href="https://scrimba-exercise-business-card.netlify.app/">__scrimba-exercise-business-card.netlify.app__.
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+<img src="https://github.com/user-attachments/assets/05d812ef-3017-4a2d-8561-c4e91942bfec" alt="Project Hero Image" width="350">
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## __Skills & Best Practices__
+- Deployment to Netlify via GitHub
+- CSS Inheritance for clean, DRY (Don't Repeat Yourself) code
+- CSS Shorthand syntax on box shadows for shorter, more efficient code
+- Realistic depth perception around shadow animation, through use of hover effects and timing
+- Foundational Semantic HTML
+<br/> <br/>
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
+##
+### __Thank you for checking out my work.__
+Let's connect on <a href="https://www.linkedin.com/in/filip-herbst/">__LinkedIn!__</a>
