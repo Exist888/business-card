@@ -1,8 +1,6 @@
 # __Digital Business Card__
-Exercise for <a href="https://v2.scrimba.com">__Scrimba__</a> Frontend Web Dev Training Program.<br/>
-Check out my digital business card at <a href="https://scrimba-exercise-business-card.netlify.app/">__scrimba-exercise-business-card.netlify.app__</a>.
-
-<img src="https://github.com/user-attachments/assets/05d812ef-3017-4a2d-8561-c4e91942bfec" alt="Project Hero Image" width="350">
+- Exercise for <a href="https://v2.scrimba.com">__Scrimba__</a> Frontend Web Dev Training Program.<br/>
+- Check out my digital business card at <a href="https://scrimba-exercise-business-card.netlify.app/">__scrimba-exercise-business-card.netlify.app__</a>.
 
 ## __Skills & Best Practices__
 - Deployment to Netlify via GitHub
