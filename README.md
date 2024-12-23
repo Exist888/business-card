@@ -2,11 +2,11 @@
 - Exercise for <a href="https://v2.scrimba.com">__Scrimba__</a> Frontend Web Dev Training Program.<br/>
 - Check out my digital business card at <a href="https://scrimba-exercise-business-card.netlify.app/">__scrimba-exercise-business-card.netlify.app__</a>.
 
-## __Skills & Best Practices__
+## __Skills Practiced__
 - Deployment to Netlify via GitHub
 - CSS Inheritance for clean, DRY (Don't Repeat Yourself) code
 - CSS Shorthand syntax on box shadows for shorter, more efficient code
-- Realistic depth perception around shadow animation, through use of hover effects and timing
+- Hover animation with timing to create realistic movement
 - Foundational Semantic HTML
 <br/> <br/>
 
