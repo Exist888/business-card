@@ -1,6 +1,6 @@
 # __Digital Business Card__
-- Exercise for <a href="https://v2.scrimba.com">__Scrimba__</a> Frontend Web Dev Training Program.<br/>
-- Check out my digital business card at <a href="https://scrimba-exercise-business-card.netlify.app/">__scrimba-exercise-business-card.netlify.app__</a>.
+- Exercise for Frontend Web Developer Training<a href="https://v2.scrimba.com">__Scrimba__</a><br/>
+- Check out my digital business card at <a href="https://scrimba-exercise-business-card.netlify.app/">__scrimba-exercise-business-card.netlify.app__</a>
 
 ## __Skills Practiced__
 - Deployment to Netlify via GitHub
